@@ -1,4 +1,4 @@
-# Dependências básicas para executar o notebook da turma
+# Dependências básicas para executar o notebook da turma, rode o comando pip install -r requirements.txt
 jupyterlab
 notebook
 ipykernel
@@ -6,5 +6,3 @@ pandas
 numpy
 matplotlib
 seaborn
-
-# Observação: se desejar, fixe versões como pandas==1.5.3
